@@ -12,7 +12,7 @@ from googletrans import Translator
 #==============================================================================#
 botStart = time.time()
 
-nadya = LINE()
+nadya = LINE('bo00t00@yahoo.com','ok168168')
 #nadya = LINE("TOKEN KAMU")
 #nadya = LINE("Email","Password")
 nadya.log("Auth Token : " + str(nadya.authToken))
